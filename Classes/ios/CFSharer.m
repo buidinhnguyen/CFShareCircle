@@ -58,4 +58,8 @@
     return [[CFSharer alloc] initWithName:@"AirPrint" imageName:@"print.png"];
 }
 
++ (CFSharer *)googlePlus {
+    return [[CFSharer alloc] initWithName:@"Google+" imageName:@"google_plus.png"];
+}
+
 @end

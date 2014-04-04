@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2347B14918EF154100BE72CC /* google_plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 2347B14718EF154100BE72CC /* google_plus.png */; };
+		2347B14A18EF154100BE72CC /* google_plus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2347B14818EF154100BE72CC /* google_plus@2x.png */; };
 		4103D8621680DFF4008AFCFC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4103D8611680DFF4008AFCFC /* UIKit.framework */; };
 		4103D8641680DFF4008AFCFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4103D8631680DFF4008AFCFC /* Foundation.framework */; };
 		4103D8661680DFF4008AFCFC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4103D8651680DFF4008AFCFC /* CoreGraphics.framework */; };
@@ -45,6 +47,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2347B14718EF154100BE72CC /* google_plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = google_plus.png; sourceTree = "<group>"; };
+		2347B14818EF154100BE72CC /* google_plus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "google_plus@2x.png"; sourceTree = "<group>"; };
 		4103D85D1680DFF4008AFCFC /* CFShareCircleExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CFShareCircleExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4103D8611680DFF4008AFCFC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4103D8631680DFF4008AFCFC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -195,6 +199,8 @@
 		41BDD7E7176A10970035C785 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				2347B14718EF154100BE72CC /* google_plus.png */,
+				2347B14818EF154100BE72CC /* google_plus@2x.png */,
 				41A16BBA188660DB003B724D /* print.png */,
 				41A16BBB188660DB003B724D /* print@2x.png */,
 				A84DCC5217AAC63000B59747 /* camera_roll.png */,
@@ -297,6 +303,7 @@
 			files = (
 				41BDD7FE176A10970035C785 /* close.png in Resources */,
 				41BDD7FF176A10970035C785 /* close@2x.png in Resources */,
+				2347B14918EF154100BE72CC /* google_plus.png in Resources */,
 				41BDD800176A10970035C785 /* dropbox.png in Resources */,
 				41BDD801176A10970035C785 /* dropbox@2x.png in Resources */,
 				41BDD802176A10970035C785 /* evernote.png in Resources */,
@@ -310,6 +317,7 @@
 				41BDD809176A10970035C785 /* mail@2x.png in Resources */,
 				41BDD80E176A10970035C785 /* pinterest.png in Resources */,
 				41BDD80F176A10970035C785 /* pinterest@2x.png in Resources */,
+				2347B14A18EF154100BE72CC /* google_plus@2x.png in Resources */,
 				41BDD810176A10970035C785 /* twitter.png in Resources */,
 				41BDD811176A10970035C785 /* twitter@2x.png in Resources */,
 				41BDD826176A11860035C785 /* Default-568h@2x.png in Resources */,

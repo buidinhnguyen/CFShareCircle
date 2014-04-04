@@ -7,13 +7,13 @@
 # For details see: https://github.com/CocoaPods/CocoaPods/wiki/The-podspec-format
 #
 Pod::Spec.new do |s|
-  s.name         = "CFShareCircle"
-  s.version      = "1.0.0"
-  s.summary      = "CFShareCircle is a user interface component for iOS that can be integrated into an app as a sharing mechanism for any kind of content."
-  s.homepage     = "https://github.com/camdenfullmer/CFShareCircle"
+  s.name         = “LMShareCircle"
+  s.version      = “1.1.0”
+  s.summary      = “LMShareCircle based on CFShareCircle, is a user interface component for iOS that can be integrated into an app as a sharing mechanism for any kind of content."
+  s.homepage     = "https://github.com/buidinhnguyen/LMShareCircle"
   s.license      = 'MIT'
-  s.author       = { "Camden Fullmer" => "camdenfullmer@gmail.com" }
-  s.source       = { :git => "https://github.com/camdenfullmer/CFShareCircle.git", :tag => "1.0.0" }
+  s.author       = { “Nguyen “Bui => “buidinhnguyen@gmail.com" }
+  s.source       = { :git => "https://github.com/buidinhnguyen/LMShareCircle.git", :tag => “1.1.0” }
   s.platform     = :ios, '5.0'
   s.source_files = 'Classes', 'Classes/**/*.{h,m}'
   s.resources = "Resources/*"
